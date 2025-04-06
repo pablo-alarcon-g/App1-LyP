@@ -7,3 +7,4 @@ Tuvimos como objetivo con este trabajo desarrollar un programa en C que analice 
 Este fue un trabajo complejo. A pesar de haber hecho avance rápido al principio, después todo se volvió complejo. Lo que más costó fue hacer el lector de csv que jamás nos trajo los valores del archivo csv. Sentí que aprendí un poco, no mucho, sobre lectura de archivos en C gracias a la investigación que hice para poder intentar hacer el lector.
 
 **Conclusión de Catalina Peña**
+Implementar la lectura de archivos y el cálculo de métricas en C me presentó desafíos como manejar correctamente el formato CSV, entender el uso de punteros a funciones y solucionar el error relacionado con WinMain durante la compilación. Estos obstáculos me permitieron aprender más sobre la gestión de datos, la modularidad en el código y la resolución de problemas de compilación.
